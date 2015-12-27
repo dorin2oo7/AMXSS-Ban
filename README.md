@@ -134,8 +134,6 @@ Ban reason message waiting:
 
 .:: Translations ::.
 
-Code:
-
 [en] English - Teascu Dorin
 [ro] Romanian - Teascu Dorin
 [es] Spanish - AfteR.
@@ -177,8 +175,6 @@ Any new translations are useful !!!
 
 .:: Change Log ::.
 
-Code:
-
 10.Jul.2010 - v2.6 - [ADDED] support for AmxBans v6.x (by Fysiks)
     [FIXED] lang file by saving it as Unicode without BOM
 20.Aug.2009 - v2.5 - [ADDED] HUD flashing message to ask reason submission from admin
@@ -216,13 +212,3 @@ Code:
 17.Apr.2009 - v1.2 - [ADDED] cvar amx_chattag - Make any tag you like in chat
 16.Apr.2009 - v1.1 - [ADDED] Multilingual
 15.Apr.2009 - v1.0 - Initial release
-
-
-.:: Game Monitor ::.
-
-Server that using This Plugin
-
-
-.:: Downloads ::.
-- OLD Versions in *.zip file !
-- menufront.amxx is only for who wants to add amx ssban into amxmodxmenu
